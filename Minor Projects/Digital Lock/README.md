@@ -43,4 +43,6 @@ The project was implemented using Arduino programming language, with the keypad,
 
 The Digital Lock project provides a practical and innovative solution for securing valuables or restricted areas using Arduino technology. Through the integration of hardware components and software algorithms, the project demonstrates the potential for Arduino-based projects in security and access control applications.
 
+Feel free to use this link to play around with my Simulation of this project on Wokwi : [Distance Measurement System Simulation](https://wokwi.com/projects/397110998060745729)
+
 Feel free to explore the code and documentation provided in this repository to learn more about the project and its implementation details.
