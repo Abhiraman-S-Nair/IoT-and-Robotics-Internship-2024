@@ -1,4 +1,4 @@
-# Water Level Monitoring System 🌊💧
+# Water Level Monitoring System 💧
 
 Welcome to the documentation for the Water Level Monitoring System project! This project aims to create a reliable and efficient system for monitoring water levels in tanks using Arduino and various sensors. Below is a detailed breakdown of the project components, functionality, and implementation.
 
