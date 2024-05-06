@@ -40,4 +40,6 @@ The project was implemented using Arduino programming language, with the ultraso
 
 The Distance Measurement System project offers a practical and effective solution for measuring distances using Arduino technology. Through its integration of hardware components and software algorithms, the project demonstrates the potential for Arduino-based projects in various fields, including robotics, automation, and smart environments.
 
+Feel free to use this link to play around with my Simulation of this project on Wokwi : [Distance Measurement System Simulation](https://wokwi.com/projects/397136218306853889)
+
 Feel free to explore the code and documentation provided in this repository to learn more about the project and its implementation details.
