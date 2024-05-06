@@ -42,5 +42,7 @@ The project was implemented using Arduino programming language, with the LCD dis
 
 The Digital Dice project successfully achieves its objective of providing a digital alternative to traditional dice rolling. Through the integration of hardware components and software algorithms, the project demonstrates the versatility and creativity of Arduino-based projects in recreational activities.
 
+Feel free to use this link to play around with my Simulation of this project on Wokwi : [Distance Measurement System Simulation](https://wokwi.com/projects/396978014633960449)
+
 Feel free to explore the code and documentation provided in this repository to learn more about the project and its implementation details.
 
